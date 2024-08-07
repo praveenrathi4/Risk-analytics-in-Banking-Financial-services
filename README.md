@@ -1,1 +1,1 @@
-# bank_loan_case_study_eda
+# Risk analytics in Banking & Financial services
